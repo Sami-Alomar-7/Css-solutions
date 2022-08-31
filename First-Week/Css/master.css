@@ -1,0 +1,140 @@
+h3 {
+    text-align: center;
+    padding: 20px 0px;
+    border-left: solid 5px ;
+    font-style: inherit;
+    font-size: 21px;
+    background-color: #5ac050;
+    margin: 10px auto;
+    display: block;
+}
+
+.second-set-assign-1-shape-1 {
+    width: 500px;
+    margin: 5px auto;
+    padding: 20px;
+    background-color: #8a2be2;
+}
+
+.second-set-assign-1-shape-2 {
+    width: 500px;
+    margin: 5px auto;
+    padding: 20px;
+    background-color: #8a2be280 ;
+}
+
+.second-set-assign-1-shape-3 {
+    width: 500px;
+    margin: 5px auto;
+    padding: 20px;
+    background-color: #8a2be21a;
+}
+
+.second-set-assigmetn-2 {
+    width: 840px;
+    margin: 10px auto;
+}
+
+.second-set-assign-2-shape-1 {
+    height: 400px;
+    width: 400px;
+    background-color: whitesmoke;
+    margin: 5px;
+    background-image: url(../images/css-assignment-5-8.png);
+    background-repeat: no-repeat;
+    display:  inline-block;
+    background-size: 80%;
+}
+
+.second-set-assign-2-shape-2 {
+    height: 400px;
+    width: 400px;
+    background-color: whitesmoke;
+    margin: 5px;
+    background-image: url(../images/css-assignment-5-8.png);
+    background-repeat: repeat-y ;
+    display: inline-block;
+    background-position: right;
+}
+
+.second-set-assign-2-shape-3 {
+    height: 400px;
+    width: 400px;
+    background-color: whitesmoke;
+    margin: 5px;
+    background-image: url(../images/css-assignment-5-8.png);
+    background-repeat: repeat-x ;
+    display: inline-block;
+}
+
+.second-set-assign-2-shape-4 {
+    height: 400px;
+    width: 400px;
+    background-color: whitesmoke;
+    margin: 5px;
+    background-image: url(../images/css-assignment-5-8.png);
+    background-repeat: repeat;
+    display: inline-block;
+}
+
+.third-set-assigmetn-1 {
+    width: 450px;
+    margin: 10px auto;
+}
+
+.third-set-assign-1-shape-1 {
+    display: inline-block;
+    margin: 5px 7px;
+    outline: 7px black solid;
+    border: 10px red solid;
+    padding: 3%;
+}
+
+.third-set-assign-1-shape-2 {
+    display: inline-block;
+    margin: 5px 7px;
+    outline: 7px black solid;
+    border: 10px solid;
+    border-color: blue green;
+    padding: 3%;
+}
+
+.third-set-assign-1-shape-3 {
+    display: inline-block;
+    margin: 5px 7px;
+    outline: 7px black solid;
+    border: 10px dashed;
+    border-color: red green blue yellow;
+    padding: 3%;
+}
+
+.third-set-assign-2-shape-1 {
+    width: 400px;
+    padding: 5px;
+    border-left: 3px red solid;
+    background-color: whitesmoke;
+    outline: 5px whitesmoke solid;
+    margin: 10px auto;
+    font-size: 20px;
+}
+
+.third-set-assign-2-shape-2 {
+    width: 400px;
+    padding: 5px;
+    border-left: 3px red solid;
+    background-color: whitesmoke;
+    outline: 5px whitesmoke solid;
+    margin: 10px auto;
+    visibility: hidden;
+    font-size: 20px;
+}
+
+.third-set-assign-2-shape-3 {
+    width: 400px;
+    padding: 5px;
+    border-left: 3px green solid;
+    background-color: whitesmoke;
+    outline: 5px whitesmoke solid;
+    margin: 10px auto;
+    font-size: 20px;
+}
