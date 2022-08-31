@@ -1,0 +1,189 @@
+h3 {
+    text-align: center;
+    padding: 20px 0px;
+    border-left: solid 5px ;
+    font-style: inherit;
+    font-size: 21px;
+    background-color: rgb(90 192 80);
+    margin: 10px auto;
+    display: block;
+}
+
+.w2_first-set-assignment-1{
+    width: 420px;
+    margin: auto;
+}
+
+.parent > .child > .title {
+    color: red;
+}
+
+.parent > .title {
+    color: blue;
+}
+
+.parent > p , .section {
+    color: green;
+}
+
+.parent , .section{
+    background-color: #eee;
+    text-align: center;
+    border-left: solid blueviolet 3px;
+    margin: 1px;
+    outline: solid #eee 3px;
+}
+
+.title_manipulating {
+    background-color: rgb(190, 5, 5);
+    height: 30px;
+    width: fit-content;
+    max-width: 600px;
+    max-height: 75px;
+    padding: 10px;
+    margin: 0px 35%;
+    font-size: 18px;
+    overflow: hidden;
+}
+
+.caption{
+    text-align: center;
+    font-size: 70px;
+    text-shadow: 1px 1px red , 2px 2px blue , 3px 3px blueviolet;
+}
+
+.w2_second-set-assignment-2 > .one ,
+.w2_second-set-assignment-2 > .two ,
+.w2_second-set-assignment-2> .three {
+    margin: auto;
+    text-align: center;
+    font-size: 60px;
+}
+
+.w2_second-set-assignment-2 > .one {
+    text-transform: uppercase;
+}
+
+.w2_second-set-assignment-2 > .two {
+    text-transform: capitalize;
+}
+
+.w2_second-set-assignment-2 > .three {
+    text-transform: lowercase ;
+}
+
+
+.w2_second-set-assignment-3 > .first ,
+ .w2_second-set-assignment-3 > .second ,
+  .w2_second-set-assignment-3 > .third {
+    width: 400px;
+    background-color: #eee;
+    padding: 10px;
+    margin: auto;
+    font-size: 20px;
+}
+
+.w2_second-set-assignment-3 > .second {
+    white-space: nowrap;
+    max-height: 39px;
+    overflow: hidden;
+    text-overflow: hidden;
+}
+
+.w2_second-set-assignment-3 > .third {
+    white-space: nowrap;
+    max-height: 39px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.w2_second-set-assignment-4{
+    width: 280px;
+    height: 100px;
+    margin: auto;
+    text-align: center;
+    padding-top: 14px;
+    background-color: #74bdb9;
+    border-bottom: solid 7px #066964;
+}
+
+.w2_second-set-assignment-4 > a {
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 70px;
+    font-weight: 500;
+    color: white;
+}
+
+.w2_third-set-assignment-1 {
+    margin: auto;
+    width: 490px;
+    height: fit-content;
+    border: solid 5px red;
+    padding: 20px 25px;
+}
+
+.w2_third-set-assignment-1 > p {
+    height: fit-content;
+    background-color: #eee;
+    text-align: center;
+    border: inherit;
+    margin: 10px 15px;
+    font-size: 28px;
+    padding: inherit;
+}
+
+.w2_third-set-assignment-2 > .open_sans ,
+.w2_third-set-assignment-2 > .cairo ,
+ .w2_third-set-assignment-2 > .jomhuria {
+    text-align: center;
+    height: fit-content;
+    width: 490px;
+    margin: 5px auto;
+    background-color: #eee;
+    border-left: blueviolet 3px solid;
+    font-size: 35px;
+}
+
+.w2_third-set-assignment-2 > .open_sans {
+    font-family: 'Open Sans' , sans-serif;
+}
+
+.w2_third-set-assignment-2 > .cairo {
+    font-family: 'Cairo' , sans-serif;
+}
+
+.w2_third-set-assignment-2 > .jomhuria {
+    font-family: 'Jomhuria' ,cursive ;
+}
+
+.w2_third-set-assignment-3 {
+    width: 490px;
+    margin: 5px auto;
+    font-size: 20px;
+}
+
+.w2_third-set-assignment-3 > .first ,
+ .w2_third-set-assignment-3> .second ,
+  .w2_third-set-assignment-3 > .third {
+    background-color: #eee;
+    text-align: center;
+    height: fit-content;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-left: #cd3dda solid 3px;
+    outline: solid 4px #eee;
+    display: block;
+}
+
+.w2_third-set-assignment-3 > .first {
+    font-size: 2.5em;
+}
+
+.w2_third-set-assignment-3 > .second {
+    font-size: 2em;
+}
+
+.w2_third-set-assignment-3 > .third {
+    font-size: 1.5em;
+}
